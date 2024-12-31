@@ -31,5 +31,3 @@ UNO Ghamasaan is a web-based implementation of the popular card game UNO, design
 - MongoDB
 - HTML/CSS/JavaScript
 
-## License
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
